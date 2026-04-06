@@ -36,7 +36,7 @@ It helps users explore places, search destinations, and even hire local guides f
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anuragxtiwair/RnR.git
+git clone https://github.com/nakshXgoyal/RnR.git
 ```
 
 ### 2. Navigate to project folder
@@ -86,7 +86,12 @@ Feel free to fork this repository and submit a pull request.
 
 ## 👨‍💻 Author
 
-**Anurag Tiwari**
+**Naksh goyal**
+
+GitHub: https://github.com/nakshXgoyal
+
+
+**Anurag tiwari**
 GitHub: https://github.com/anuragxtiwari
 
 ---
